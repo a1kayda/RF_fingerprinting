@@ -1,4 +1,8 @@
 # RF_fingerprinting
 
-There will be description of my diploma, I promise ^~^
+Radio frequency identification task.
+
+Research paper is RF-fingerprinting.pdf
+
+There will be description, I promise ^~^
 
